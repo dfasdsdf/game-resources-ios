@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 304231283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7397b2d0cec5c19dc9cc084ef56851cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7397b2d0cec5c19dc9cc084ef56851cc
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_GAME_START.ogg
+Dependencies: []

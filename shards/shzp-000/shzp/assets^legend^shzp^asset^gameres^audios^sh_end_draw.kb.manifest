@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3609376900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acdbbb3f8587cd73d0f5089b9128a6ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: acdbbb3f8587cd73d0f5089b9128a6ed
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_END_DRAW.ogg
+Dependencies: []

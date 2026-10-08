@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3617036207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5e3b31d0bb8211d332dc60a45d8a9a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c5e3b31d0bb8211d332dc60a45d8a9a9
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/SHZP/Asset/GameRes/Audios/sh_maidinglishou.ogg
+Dependencies: []
