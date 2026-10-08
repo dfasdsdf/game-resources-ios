@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 822920260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01c77d30e999be98e8208524cf66c354
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 01c77d30e999be98e8208524cf66c354
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/background/bg03-min.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3351067178
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e99a71cc145c2a1b3320c63569717898
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e99a71cc145c2a1b3320c63569717898
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/cannonSwitch.ogg
+Dependencies: []
