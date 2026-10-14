@@ -3,13 +3,13 @@ CRC: 3782927092
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 882aff4a390f04d47eb777f4c6af3f47
+    Hash: d2c3f4bc68207a1ca9914f3bff0c985a
   TypeTreeHash:
     serializedVersion: 2
     Hash: e9e5a891111408821e670e716f88b564
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 882aff4a390f04d47eb777f4c6af3f47
+    Hash: d2c3f4bc68207a1ca9914f3bff0c985a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -62,4 +62,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Legend/Fish3D/Asset/GameRes/Prefabs/UI/GoldAwardItemDrop.prefab
 Dependencies:
-- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/JuXiangWan_IOS/2.0.0.17/fish3d/assets^legend^fish3d^asset^gameres^textures^boss^boss1.kb
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/JuXiangWan_IOS/2.0.0.19/fish3d/assets^legend^fish3d^asset^gameres^textures^boss^boss1.kb
