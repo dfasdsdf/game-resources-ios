@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2851132911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e8a5deb8913f2eed089201562b0548d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0e8a5deb8913f2eed089201562b0548d
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/StartJetton.mp3
+Dependencies: []

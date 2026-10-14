@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 203192639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0d1634912e1ba1e86b2545b6ef6db6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0d1634912e1ba1e86b2545b6ef6db6c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_History_Tiger.png
+Dependencies: []

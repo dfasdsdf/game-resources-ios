@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1677204850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71f5f92df3121e5ab9592d1233b276da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 71f5f92df3121e5ab9592d1233b276da
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/History/LD_Ball_Big_Dragon.png
+Dependencies: []

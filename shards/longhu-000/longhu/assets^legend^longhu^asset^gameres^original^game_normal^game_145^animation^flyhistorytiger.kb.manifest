@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2334984551
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e49255a9572c00b34750e10b4379509
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6e49255a9572c00b34750e10b4379509
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/FlyHistoryTiger.anim
+Dependencies: []

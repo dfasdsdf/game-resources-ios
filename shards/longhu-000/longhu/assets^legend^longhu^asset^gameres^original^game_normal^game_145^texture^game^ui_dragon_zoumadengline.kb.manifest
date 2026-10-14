@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2646675335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38674379c08adaa7adcc97a02aa0966d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38674379c08adaa7adcc97a02aa0966d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_ZoumadengLine.png
+Dependencies: []

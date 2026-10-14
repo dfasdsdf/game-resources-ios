@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3846691848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6100c984670568b996c60d7372c6a2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c6100c984670568b996c60d7372c6a2a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Tiger20.png
+Dependencies: []

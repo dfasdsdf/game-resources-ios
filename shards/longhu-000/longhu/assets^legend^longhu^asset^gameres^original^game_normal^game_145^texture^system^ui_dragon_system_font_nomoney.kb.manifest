@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1779180793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a01599967410c8f6979b6dd40fd83d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0a01599967410c8f6979b6dd40fd83d0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/System/UI_Dragon_System_Font_Nomoney.PNG
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3588985685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 633839ea04b4e9aebde59b0600d9e4be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 633839ea04b4e9aebde59b0600d9e4be
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Dragon38.PNG
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1254408991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 607215fb0d7f693e445c2acd9ba4ccea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 607215fb0d7f693e445c2acd9ba4ccea
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/ShadowFly.anim
+Dependencies: []

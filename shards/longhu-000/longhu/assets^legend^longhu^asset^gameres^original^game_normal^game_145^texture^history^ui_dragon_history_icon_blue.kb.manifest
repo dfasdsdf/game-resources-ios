@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1180651676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 612250fc15581172a67f31d9504c8764
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 612250fc15581172a67f31d9504c8764
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/History/UI_Dragon_History_Icon_Blue.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1244158565
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5d5136166d3b5853692a4b2e785beac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d5d5136166d3b5853692a4b2e785beac
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Set/UI_Set_LineUp.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2876259663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 853871c246d6127f526dc41a8857c47d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 853871c246d6127f526dc41a8857c47d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Money_8.png
+Dependencies: []

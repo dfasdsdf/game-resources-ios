@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 541876147
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcb1b6cbf20941d1ac859e27c78ee216
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bcb1b6cbf20941d1ac859e27c78ee216
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/History/LD_Ball_Small_Dragon.png
+Dependencies: []

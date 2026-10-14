@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 768563904
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78e3e09ac13ccc261679d9ee89157efe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 78e3e09ac13ccc261679d9ee89157efe
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Dragon30.PNG
+Dependencies: []

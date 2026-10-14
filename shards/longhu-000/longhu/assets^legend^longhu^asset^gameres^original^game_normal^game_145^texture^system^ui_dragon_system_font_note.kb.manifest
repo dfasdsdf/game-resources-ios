@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 858508832
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f596b9e55ac1f47f56b2e34b7502bf1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f596b9e55ac1f47f56b2e34b7502bf1e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/System/UI_Dragon_System_Font_Note.png
+Dependencies: []
