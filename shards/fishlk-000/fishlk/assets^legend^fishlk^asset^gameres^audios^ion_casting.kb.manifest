@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 341890320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01b433e57a7e4aba4767fb7c7b53feb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 01b433e57a7e4aba4767fb7c7b53feb4
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/ion_casting.ogg
+Dependencies: []

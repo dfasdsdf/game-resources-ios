@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3684976141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29eec5eec55c235c44bef7a01858d1cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 29eec5eec55c235c44bef7a01858d1cf
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/bingo.ogg
+Dependencies: []
