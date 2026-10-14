@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3205981194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f0ac49cbb1f8c211d5bfd1dd7af55d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6f0ac49cbb1f8c211d5bfd1dd7af55d8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/Tiger.anim
+Dependencies: []

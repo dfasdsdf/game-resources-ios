@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1886238326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ba267f7e6f5ea7401a5ff755f2cd8bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0ba267f7e6f5ea7401a5ff755f2cd8bd
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/CardOpen.anim
+Dependencies: []

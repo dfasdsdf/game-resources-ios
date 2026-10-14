@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3363553792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbfbd1a7f01a03b68bd7c41dfe2dee5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bbfbd1a7f01a03b68bd7c41dfe2dee5f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Jushu_7.png
+Dependencies: []

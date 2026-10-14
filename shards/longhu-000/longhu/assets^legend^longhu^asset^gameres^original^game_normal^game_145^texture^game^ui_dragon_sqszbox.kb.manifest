@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 588419543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f527849ecb3b98977369d81b1afae9b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f527849ecb3b98977369d81b1afae9b2
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_SQSZbox.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3021996310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c67ab84ff9e3368d28eddca4fed3fbd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0c67ab84ff9e3368d28eddca4fed3fbd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_Dragon_Tigerbox.png
+Dependencies: []

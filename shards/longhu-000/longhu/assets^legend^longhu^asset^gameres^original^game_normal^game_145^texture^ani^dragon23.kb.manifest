@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2539499853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 464f86b3e1b7d7bc9eee5749d2fb18fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 464f86b3e1b7d7bc9eee5749d2fb18fb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Dragon23.PNG
+Dependencies: []

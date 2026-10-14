@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2525584809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70c57f73fb07518ddff0438dd4f11776
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70c57f73fb07518ddff0438dd4f11776
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Card/CardRed02.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2381685958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfcfbb0c724489384afd466d8a129ac5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dfcfbb0c724489384afd466d8a129ac5
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/FlyHistoryHe.anim
+Dependencies: []

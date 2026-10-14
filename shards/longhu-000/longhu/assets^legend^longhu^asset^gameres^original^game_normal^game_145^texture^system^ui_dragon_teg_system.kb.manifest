@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 398632794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd480eddd16b6ea88cdcf71bc2de09b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd480eddd16b6ea88cdcf71bc2de09b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/System/UI_Dragon_Teg_System.png
+Dependencies: []

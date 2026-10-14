@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 204691506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3f4a87b9244f727f845f1a439fd3d8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3f4a87b9244f727f845f1a439fd3d8a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/System/UI_BT_OK_3.png
+Dependencies: []

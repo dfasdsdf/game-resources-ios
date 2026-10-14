@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1845344848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09b175bf27f3c8db4d1e42a03c6715fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 09b175bf27f3c8db4d1e42a03c6715fd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_BT_FunctionBank_3.png
+Dependencies: []

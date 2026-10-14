@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4156658189
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9b328af1e520e1d14d3ee52d71c0118
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c9b328af1e520e1d14d3ee52d71c0118
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Zhuang/UI_Dragon_Line.png
+Dependencies: []

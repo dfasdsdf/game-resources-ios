@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 462776343
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d919b8b97d98609c4b3149bb91d682d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d919b8b97d98609c4b3149bb91d682d6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/History/LD_Line_Small_Dragon.png
+Dependencies: []

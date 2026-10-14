@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1085398484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5463e95df46569e4255bc74eb0c05a30
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5463e95df46569e4255bc74eb0c05a30
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Percent_1.PNG
+Dependencies: []

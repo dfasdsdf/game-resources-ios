@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1587390923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b208218d84b2878e82ee15c74f76482
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0b208218d84b2878e82ee15c74f76482
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Zhuang/UI_Dragon_SQSZ_Black.png
+Dependencies: []

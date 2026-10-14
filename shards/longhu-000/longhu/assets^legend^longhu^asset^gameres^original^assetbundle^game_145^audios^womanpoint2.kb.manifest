@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1970737822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 19db70270e055d435f9ff6c8d4471862
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 19db70270e055d435f9ff6c8d4471862
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Audios/WomanPoint2.mp3
+Dependencies: []

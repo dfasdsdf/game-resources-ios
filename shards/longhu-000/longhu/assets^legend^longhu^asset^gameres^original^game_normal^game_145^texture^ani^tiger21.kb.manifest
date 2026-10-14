@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2427733476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 252dfeaa5bb83e63acae6c2af0f83d13
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 252dfeaa5bb83e63acae6c2af0f83d13
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/Tiger21.png
+Dependencies: []

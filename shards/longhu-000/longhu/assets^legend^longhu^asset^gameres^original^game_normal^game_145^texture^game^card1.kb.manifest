@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 479108942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f2efb5d8467fc036457a09ae7b05b0f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2efb5d8467fc036457a09ae7b05b0f5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/Card1.PNG
+Dependencies: []

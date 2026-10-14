@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2015615751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b9a863469d037f16bfa4a547483211f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8b9a863469d037f16bfa4a547483211f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Num/Num_Green_9.PNG
+Dependencies: []

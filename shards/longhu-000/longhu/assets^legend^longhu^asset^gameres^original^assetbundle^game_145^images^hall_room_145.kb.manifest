@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1360892788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2035ee609c620ab652f192ca943537af
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2035ee609c620ab652f192ca943537af
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/AssetBundle/Game_145/Images/Hall_Room_145.png
+Dependencies: []

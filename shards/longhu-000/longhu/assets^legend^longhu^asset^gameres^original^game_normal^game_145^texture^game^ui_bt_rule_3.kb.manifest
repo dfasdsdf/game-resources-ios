@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2595487060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08e9913cd7a2ee82c2082f4b52f7d374
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 08e9913cd7a2ee82c2082f4b52f7d374
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Game/UI_BT_Rule_3.png
+Dependencies: []

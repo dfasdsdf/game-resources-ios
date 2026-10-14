@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 244244745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a7ab6edfbe5dd5e0aeea55d8e1560cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1a7ab6edfbe5dd5e0aeea55d8e1560cb
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Ani/UI_Dragon_GameStart_Stop.PNG
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2961173071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae652635fd3b52e60c76cb35d5c747eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ae652635fd3b52e60c76cb35d5c747eb
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Animation/FlyHistoryDragon.anim
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1401203762
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16411b52a49e74492ed4f3cc6617fe27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 16411b52a49e74492ed4f3cc6617fe27
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/LongHu/Asset/GameRes/Original/Game_Normal/Game_145/Texture/Card/CardBlack09.png
+Dependencies: []
