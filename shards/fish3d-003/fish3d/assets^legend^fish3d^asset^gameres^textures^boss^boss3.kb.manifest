@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1873902245
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4d9965c6b024f1366ba2a222289c999
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4d9965c6b024f1366ba2a222289c999
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Textures/Boss/boss3.png
+Dependencies: []
