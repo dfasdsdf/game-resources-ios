@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2615972909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44037f9c1a0f5aa10abda7c5ce0c852b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44037f9c1a0f5aa10abda7c5ce0c852b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/Fodder/Hall/Select/game_select4.png
+Dependencies: []

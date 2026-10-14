@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1079969866
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05d0049a5a4fea14ee62689f703ec38e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 05d0049a5a4fea14ee62689f703ec38e
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Effects/Bigwin2/bigwin2.atlas.txt
+Dependencies: []

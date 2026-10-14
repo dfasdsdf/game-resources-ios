@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2711365539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcaed86b96dc43d3a2a15b74aa9d6840
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bcaed86b96dc43d3a2a15b74aa9d6840
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Line/Num/jxlw_line_9_on.png
+Dependencies: []

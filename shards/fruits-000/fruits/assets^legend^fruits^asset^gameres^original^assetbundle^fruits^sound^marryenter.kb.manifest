@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1343447166
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 862f574038f0df8922412b4683f1ea5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 862f574038f0df8922412b4683f1ea5b
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/marryenter.mp3
+Dependencies: []

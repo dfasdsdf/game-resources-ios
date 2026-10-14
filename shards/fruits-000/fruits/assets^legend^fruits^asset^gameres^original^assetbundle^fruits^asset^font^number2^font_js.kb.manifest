@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3268473446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b85f0ebf078ec12d7ee3dc3d14f1f1f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b85f0ebf078ec12d7ee3dc3d14f1f1f4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number2/font_js.png
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number2/font_js.fontsettings
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Font/Number2/font_js.mat
+Dependencies: []

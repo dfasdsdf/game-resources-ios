@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2392806857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5d58cfab0b5ade77ef22fe46d91bcbf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b5d58cfab0b5ade77ef22fe46d91bcbf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/UI_Fruits_MenuOpenZi.png
+Dependencies: []
