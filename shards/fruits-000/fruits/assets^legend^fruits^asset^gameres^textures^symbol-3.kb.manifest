@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4077019715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec6a3008b2a3d63b77de0ba3b1f3ee59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec6a3008b2a3d63b77de0ba3b1f3ee59
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Textures/symbol-3.png
+Dependencies: []
