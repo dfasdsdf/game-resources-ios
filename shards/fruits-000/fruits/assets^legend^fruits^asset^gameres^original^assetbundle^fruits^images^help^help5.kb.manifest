@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2758015491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e10a67864a1d5de3de8b7fcae9a4e148
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e10a67864a1d5de3de8b7fcae9a4e148
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Help/help5.jpg
+Dependencies: []

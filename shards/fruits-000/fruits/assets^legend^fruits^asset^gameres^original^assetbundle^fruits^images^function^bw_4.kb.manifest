@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1783124519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 339a21e4e0028d5ddd807af01fc7f858
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 339a21e4e0028d5ddd807af01fc7f858
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Function/bw_4.png
+Dependencies: []

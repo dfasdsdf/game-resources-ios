@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3473510311
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de54e528ccd36725cd00bda944d01b9b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: de54e528ccd36725cd00bda944d01b9b
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/defen.wav
+Dependencies: []

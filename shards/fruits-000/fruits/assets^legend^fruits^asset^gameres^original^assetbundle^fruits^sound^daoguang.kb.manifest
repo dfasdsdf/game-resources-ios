@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 630254746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3113598a8aa39648e23ebc81dca9e68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a3113598a8aa39648e23ebc81dca9e68
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/daoguang.mp3
+Dependencies: []

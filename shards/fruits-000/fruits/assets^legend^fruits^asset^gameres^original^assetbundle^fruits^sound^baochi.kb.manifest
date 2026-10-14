@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2550035489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9ace2c133d67f99de36ede3c21ae66c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d9ace2c133d67f99de36ede3c21ae66c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/baochi.mp3
+Dependencies: []

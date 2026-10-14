@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2330783829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54b4c9b0ed5c215162e777a5c7b28e01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2efc7cb271410f566fa6baec4ab376f1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 54b4c9b0ed5c215162e777a5c7b28e01
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Animations/BigWin.anim
+Dependencies: []

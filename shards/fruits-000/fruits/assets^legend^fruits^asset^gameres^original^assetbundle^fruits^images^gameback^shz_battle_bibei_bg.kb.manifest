@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3949989320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4083a608809287c2340fb6c2f97c36e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e4083a608809287c2340fb6c2f97c36e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/GameBack/shz_battle_bibei_bg.jpg
+Dependencies: []

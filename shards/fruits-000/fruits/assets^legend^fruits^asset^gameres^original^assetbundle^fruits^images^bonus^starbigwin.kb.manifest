@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2847532377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9a375d0ca4d448686518b9751739a099
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9a375d0ca4d448686518b9751739a099
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Bonus/StarBigwin.mat
+Dependencies:
+- /Users/wb/Documents/super-cloud/g/88Fish/BuildOutput/resources/u2022/JuXiangWan_IOS/2.0.0.19/fruits/assets^legend^fruits^asset^gameres^original^assetbundle^fruits^images^function^slots_free.kb

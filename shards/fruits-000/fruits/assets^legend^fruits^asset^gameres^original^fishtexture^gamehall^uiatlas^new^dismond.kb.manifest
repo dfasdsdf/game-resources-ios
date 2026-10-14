@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2400342815
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 307d079fa1ee95bb73b67cfbeb335518
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 307d079fa1ee95bb73b67cfbeb335518
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/FishTexture/GameHall/UIAtlas/New/dismond.png
+Dependencies: []
