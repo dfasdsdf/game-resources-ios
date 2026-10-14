@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3236312319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8a65e382b2c69236ca375931ba161c2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a65e382b2c69236ca375931ba161c2a
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fish3D/Asset/GameRes/Audios/114.ogg
+Dependencies: []
