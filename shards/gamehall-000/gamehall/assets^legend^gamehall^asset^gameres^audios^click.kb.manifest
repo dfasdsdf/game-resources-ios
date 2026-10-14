@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3590082825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 017fce9bc86a6da343f20fbbcf33f4d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 017fce9bc86a6da343f20fbbcf33f4d1
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Audios/click.wav
+Dependencies: []

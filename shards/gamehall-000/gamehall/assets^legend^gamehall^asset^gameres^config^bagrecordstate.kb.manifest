@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 459869493
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ecffc68f3a4a18a24e57191249b18a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ecffc68f3a4a18a24e57191249b18a2
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/GameHall/Asset/GameRes/Config/BagRecordState.txt
+Dependencies: []
