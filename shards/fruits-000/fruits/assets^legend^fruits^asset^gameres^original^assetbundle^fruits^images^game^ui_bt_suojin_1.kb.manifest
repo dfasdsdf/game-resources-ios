@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3741087916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 279178fe410be71dda8d51a8d6dee8ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 279178fe410be71dda8d51a8d6dee8ec
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_Suojin_1.png
+Dependencies: []

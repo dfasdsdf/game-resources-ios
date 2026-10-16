@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4086322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6277c13b99e1b9bbd15d6d150baa376a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 958b54fb77cc0a35b3bf79f07d0e96ea
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6277c13b99e1b9bbd15d6d150baa376a
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Animations/Lagan.anim
+Dependencies: []

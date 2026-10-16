@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1022636070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b78383124d5d6bee7742368ca77aac44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b78383124d5d6bee7742368ca77aac44
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Main/IncomeRank.png
+Dependencies: []

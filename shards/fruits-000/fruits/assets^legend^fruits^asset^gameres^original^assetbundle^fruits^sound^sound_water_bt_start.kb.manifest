@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3866134773
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9f1a13f447cfee2126c1dd3a0ad3230
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f9f1a13f447cfee2126c1dd3a0ad3230
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/sound_water_bt_start.mp3
+Dependencies: []

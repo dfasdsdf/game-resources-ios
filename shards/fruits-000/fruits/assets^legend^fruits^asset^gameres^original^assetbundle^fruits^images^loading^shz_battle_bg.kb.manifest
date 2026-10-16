@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1734556137
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8c25a01fd7d3e65fb6f97cc87986db6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b8c25a01fd7d3e65fb6f97cc87986db6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Loading/shz_battle_bg.jpg
+Dependencies: []

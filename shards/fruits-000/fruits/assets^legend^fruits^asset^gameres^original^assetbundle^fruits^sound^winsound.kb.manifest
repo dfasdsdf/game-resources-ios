@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 11113879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36ee8bb9f8c1aeed6f420926312ca981
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 36ee8bb9f8c1aeed6f420926312ca981
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/winsound.mp3
+Dependencies: []

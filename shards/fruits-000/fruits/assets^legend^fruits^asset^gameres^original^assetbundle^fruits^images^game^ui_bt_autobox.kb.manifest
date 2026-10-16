@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1606814914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b58d082fc5ce05c44f5d292055b63e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1b58d082fc5ce05c44f5d292055b63e7
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_AutoBox.png
+Dependencies: []

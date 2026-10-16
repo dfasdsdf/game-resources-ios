@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2214526479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21a280eb2553f6fd06798cceace86bfd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 21a280eb2553f6fd06798cceace86bfd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_BT_add_1_p.png
+Dependencies: []

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2336791882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8765da82bdc0ed829ab70f731d30b00f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8765da82bdc0ed829ab70f731d30b00f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Effects/Bigwin2/bigwin2.json
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Asset/Effects/Bigwin2/bigwin2.png
+Dependencies: []

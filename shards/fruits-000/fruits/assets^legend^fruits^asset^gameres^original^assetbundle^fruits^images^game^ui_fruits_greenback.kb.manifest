@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3282600355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65605e785333e9c07f79c6ac360c97d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 65605e785333e9c07f79c6ac360c97d8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_GreenBack.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2041405981
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c287437ded74a7b83d03e24403044985
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c287437ded74a7b83d03e24403044985
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Morebox.png
+Dependencies: []

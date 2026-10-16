@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2373321658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81e28c8b4124b595befc16bc0566b22e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 81e28c8b4124b595befc16bc0566b22e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Legend/Fruits/Asset/GameRes/Original/FishTexture/GameHall/UIAtlas/New/\u5706\u89D2\u77E9\u5F621\u62F7\u8D1D.png"
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2193511691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c40b8c8dc020eab0b3cbc7f0e47b1a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9c40b8c8dc020eab0b3cbc7f0e47b1a4
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Sound/bar_eff.wav
+Dependencies: []

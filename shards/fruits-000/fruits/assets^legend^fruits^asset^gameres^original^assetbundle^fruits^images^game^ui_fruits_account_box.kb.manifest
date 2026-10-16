@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2977945558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ff87eb1461a90386cdc0149a1abe05f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5ff87eb1461a90386cdc0149a1abe05f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/UI_Fruits_Account_Box.png
+Dependencies: []

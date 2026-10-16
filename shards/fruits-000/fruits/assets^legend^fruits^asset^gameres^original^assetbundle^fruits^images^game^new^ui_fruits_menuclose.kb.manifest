@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3922920797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c3f5c6f5d56f2b0c4028696347eec65
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c3f5c6f5d56f2b0c4028696347eec65
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Game/New/UI_Fruits_MenuClose.png
+Dependencies: []

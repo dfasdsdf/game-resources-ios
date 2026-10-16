@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2832180209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a486258328ac4d018b372febc553e48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7a486258328ac4d018b372febc553e48
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/Fruits/Asset/GameRes/Original/AssetBundle/Fruits/Images/Function/slots_free.png
+Dependencies: []
