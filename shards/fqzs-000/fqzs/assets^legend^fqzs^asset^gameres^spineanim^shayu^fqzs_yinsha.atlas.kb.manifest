@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 365247990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cc026af4d7bf337fd8c29a1b8a84764
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3cc026af4d7bf337fd8c29a1b8a84764
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/SpineAnim/shayu/fqzs_yinsha.atlas.txt
+Dependencies: []

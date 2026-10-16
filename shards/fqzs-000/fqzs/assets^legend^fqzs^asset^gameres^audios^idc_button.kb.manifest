@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1934875184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa95a9ffb909fa67c8b10ea2745e622f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aa95a9ffb909fa67c8b10ea2745e622f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_BUTTON.wav
+Dependencies: []

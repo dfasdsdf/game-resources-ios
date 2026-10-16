@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4195592524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6de4f8f21c434042a66ca252bf9edd71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6de4f8f21c434042a66ca252bf9edd71
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/xiongmao.wav
+Dependencies: []

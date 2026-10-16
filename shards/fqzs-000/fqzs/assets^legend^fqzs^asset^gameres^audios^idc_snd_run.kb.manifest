@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 670804820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f333b8ea4e9ed686570667e50fc50cb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f333b8ea4e9ed686570667e50fc50cb7
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_SND_RUN.wav
+Dependencies: []

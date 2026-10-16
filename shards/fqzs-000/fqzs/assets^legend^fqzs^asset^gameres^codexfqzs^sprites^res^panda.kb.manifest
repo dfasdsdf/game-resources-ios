@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 124786837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96df08ca718d793cdad979b1aaf3a5e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 96df08ca718d793cdad979b1aaf3a5e9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/panda.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2363275071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efbf167133e5cbb199c2478a03c41c45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: efbf167133e5cbb199c2478a03c41c45
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/gban.png
+Dependencies: []

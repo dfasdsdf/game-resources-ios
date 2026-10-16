@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3288791412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b568a17c04dccaea4338aa8cad97b9c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9b568a17c04dccaea4338aa8cad97b9c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/xiongmao.png
+Dependencies: []

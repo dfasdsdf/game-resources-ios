@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2669672499
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eae6ae44b50a6ecbdaf2c5891720ca05
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: eae6ae44b50a6ecbdaf2c5891720ca05
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/Game_Fish/Game_523/Effect/Textures/Light_20_T.png
+Dependencies: []

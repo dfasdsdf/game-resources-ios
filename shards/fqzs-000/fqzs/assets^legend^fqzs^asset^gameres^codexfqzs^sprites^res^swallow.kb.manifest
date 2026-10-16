@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 138567423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c5234e78ece48dd313bc895dd912bafa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c5234e78ece48dd313bc895dd912bafa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/swallow.png
+Dependencies: []

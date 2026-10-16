@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1527962703
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be063f50adc3c875ddb9f686c6ee893f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: be063f50adc3c875ddb9f686c6ee893f
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_SND_WARING.wav
+Dependencies: []

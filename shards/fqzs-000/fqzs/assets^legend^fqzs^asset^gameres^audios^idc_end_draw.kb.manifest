@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3091441590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5551f823f2b3a63cb65c9aeb25fa2b70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5551f823f2b3a63cb65c9aeb25fa2b70
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_END_DRAW.wav
+Dependencies: []

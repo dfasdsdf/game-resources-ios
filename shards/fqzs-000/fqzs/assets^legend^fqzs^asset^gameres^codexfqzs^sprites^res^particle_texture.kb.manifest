@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3393136042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc850d1e3027ea3ecdcb1ff74f0731ea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fc850d1e3027ea3ecdcb1ff74f0731ea
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/particle_texture.png
+Dependencies: []

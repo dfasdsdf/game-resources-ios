@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2558433897
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44f2b6f8f522d55264af9543e95918da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44f2b6f8f522d55264af9543e95918da
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/icon_fq.png
+Dependencies: []

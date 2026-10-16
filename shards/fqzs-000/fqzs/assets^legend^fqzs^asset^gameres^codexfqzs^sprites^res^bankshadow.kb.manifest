@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3129974935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b86d6a249eaf03c674f9e107fc128012
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b86d6a249eaf03c674f9e107fc128012
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/bankshadow.png
+Dependencies: []

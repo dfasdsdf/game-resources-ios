@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3904814736
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 333f330af36cef38e6070dbd5050cd27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 333f330af36cef38e6070dbd5050cd27
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/cm4.png
+Dependencies: []

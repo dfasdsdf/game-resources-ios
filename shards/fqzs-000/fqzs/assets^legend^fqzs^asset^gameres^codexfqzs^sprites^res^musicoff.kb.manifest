@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 85083936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45904e19e970bd6f0ac91086d947668e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 45904e19e970bd6f0ac91086d947668e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/musicoff.png
+Dependencies: []

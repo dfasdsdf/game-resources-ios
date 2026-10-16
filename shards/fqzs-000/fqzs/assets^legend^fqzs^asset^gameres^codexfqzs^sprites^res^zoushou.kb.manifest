@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2124472962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 25f96ea529544b342260f614e6c3d014
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 25f96ea529544b342260f614e6c3d014
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/zoushou.png
+Dependencies: []

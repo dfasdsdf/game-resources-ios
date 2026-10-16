@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4223663505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc6ea987904ba39f30f26e1ae80d6143
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cc6ea987904ba39f30f26e1ae80d6143
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/jslight.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 127098932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b3d28db08117aa20edfbffeda741283
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0b3d28db08117aa20edfbffeda741283
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/benlun.png
+Dependencies: []

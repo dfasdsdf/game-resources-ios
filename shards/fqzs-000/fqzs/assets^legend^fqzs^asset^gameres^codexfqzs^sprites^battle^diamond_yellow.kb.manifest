@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3090463923
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9f92df75c45c379e8ce43677cc01cdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f9f92df75c45c379e8ce43677cc01cdd
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/diamond_yellow.png
+Dependencies: []

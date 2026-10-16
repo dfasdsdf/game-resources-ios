@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 386749502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4c33b41b0f5c3c961b12e85d42c1aee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b4c33b41b0f5c3c961b12e85d42c1aee
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/cm_bg.png
+Dependencies: []

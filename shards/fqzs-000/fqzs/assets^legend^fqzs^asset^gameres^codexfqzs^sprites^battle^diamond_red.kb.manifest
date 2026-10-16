@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 154879173
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0207cd4c4dd29a12483e7ccf39d4078f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0207cd4c4dd29a12483e7ccf39d4078f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/diamond_red.png
+Dependencies: []

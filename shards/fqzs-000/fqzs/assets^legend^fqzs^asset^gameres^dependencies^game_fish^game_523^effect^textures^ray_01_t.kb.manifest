@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1471620638
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66b7df745fbd1013e5d1c9445c41eb46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 66b7df745fbd1013e5d1c9445c41eb46
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Dependencies/Game_Fish/Game_523/Effect/Textures/Ray_01_T.png
+Dependencies: []

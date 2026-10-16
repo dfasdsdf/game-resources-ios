@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4140522723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc8ecca1af1442ced1471cccd2eb6243
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fc8ecca1af1442ced1471cccd2eb6243
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/kongque.png
+Dependencies: []

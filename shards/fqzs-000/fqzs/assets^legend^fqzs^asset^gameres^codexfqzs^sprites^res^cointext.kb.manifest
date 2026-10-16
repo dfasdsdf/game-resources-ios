@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1812535060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb4b943175de2055067cc8465df4aa06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fb4b943175de2055067cc8465df4aa06
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/cointext.png
+Dependencies: []
