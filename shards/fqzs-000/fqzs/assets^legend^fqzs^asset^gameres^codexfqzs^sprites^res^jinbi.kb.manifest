@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 890574539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 619b4f195903db8555ba3164a1a0d5da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 619b4f195903db8555ba3164a1a0d5da
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/jinbi.png
+Dependencies: []

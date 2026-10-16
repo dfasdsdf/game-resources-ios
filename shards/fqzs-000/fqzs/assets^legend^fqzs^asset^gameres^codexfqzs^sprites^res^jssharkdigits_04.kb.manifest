@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3092965434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bd2b6959041ed8f4e393e0c918c39bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0bd2b6959041ed8f4e393e0c918c39bf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/jssharkdigits_04.png
+Dependencies: []

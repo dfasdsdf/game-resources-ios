@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3951477341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c671c79933bcc365e72410eb24ba45a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c671c79933bcc365e72410eb24ba45a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/TEXTURE1.png
+Dependencies: []

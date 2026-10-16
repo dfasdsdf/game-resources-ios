@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1395310552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6472b4d028c61e8d75ad7532530dc30d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6472b4d028c61e8d75ad7532530dc30d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/btn_shanglei.png
+Dependencies: []

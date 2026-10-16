@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 132380853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79312863b600ba588e55004562b27588
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 79312863b600ba588e55004562b27588
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/Audios/IDC_SND_CHANGE_BANKER.wav
+Dependencies: []

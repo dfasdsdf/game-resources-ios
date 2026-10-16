@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1472361454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28bb7c15d26f55f4ab8a9f5c6ebf2a09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 28bb7c15d26f55f4ab8a9f5c6ebf2a09
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/BTN-tuichu2.png
+Dependencies: []

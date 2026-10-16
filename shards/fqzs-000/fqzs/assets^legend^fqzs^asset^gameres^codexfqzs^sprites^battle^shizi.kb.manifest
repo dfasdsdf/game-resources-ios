@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2037811527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 004b0f60e8fc29246f31db8f628dcb16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 004b0f60e8fc29246f31db8f628dcb16
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/shizi.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 407871662
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2b2429b95719155faf1fb7d00370b08c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2b2429b95719155faf1fb7d00370b08c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/bg_zi.png
+Dependencies: []

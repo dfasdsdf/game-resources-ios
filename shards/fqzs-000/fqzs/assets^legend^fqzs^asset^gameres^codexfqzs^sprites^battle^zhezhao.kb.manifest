@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3985966899
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2c5fd136c0c5c20574886f34388f83e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a2c5fd136c0c5c20574886f34388f83e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/zhezhao.png
+Dependencies: []

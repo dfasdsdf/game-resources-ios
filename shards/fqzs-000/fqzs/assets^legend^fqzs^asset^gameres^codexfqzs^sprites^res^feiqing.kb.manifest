@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4225897893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e91f4f98be6152116eaeec879f59d8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8e91f4f98be6152116eaeec879f59d8f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/feiqing.png
+Dependencies: []

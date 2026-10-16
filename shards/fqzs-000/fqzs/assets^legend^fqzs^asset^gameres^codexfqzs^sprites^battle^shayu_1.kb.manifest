@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2962214063
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fd5df32c5d8de3a63b7b26b60a37cdf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fd5df32c5d8de3a63b7b26b60a37cdf8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/shayu_1.png
+Dependencies: []

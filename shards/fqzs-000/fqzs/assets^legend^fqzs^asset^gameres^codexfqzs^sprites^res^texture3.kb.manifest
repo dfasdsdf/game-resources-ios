@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3884235868
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5594ffc8e1d98b1eb95e24f10c3259ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5594ffc8e1d98b1eb95e24f10c3259ce
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/res/TEXTURE3.png
+Dependencies: []

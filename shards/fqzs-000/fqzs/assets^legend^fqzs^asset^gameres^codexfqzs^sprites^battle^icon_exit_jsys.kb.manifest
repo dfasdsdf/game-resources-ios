@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2488348055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09061254404e05410766ed468b6c42e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 09061254404e05410766ed468b6c42e0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/Sprites/battle/icon_exit_jsys.png
+Dependencies: []

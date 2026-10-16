@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1151032186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0373139db36d7719c96b419c754713f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0373139db36d7719c96b419c754713f7
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FQZS/Asset/GameRes/CodexFQZS/FqzsMainVisualManifest.json
+Dependencies: []
