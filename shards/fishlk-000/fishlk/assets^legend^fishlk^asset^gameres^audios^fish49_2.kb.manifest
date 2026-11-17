@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2794317992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b714f3643b603a3d0ee6d4d86da5d98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1b714f3643b603a3d0ee6d4d86da5d98
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/fish49_2.ogg
+Dependencies: []

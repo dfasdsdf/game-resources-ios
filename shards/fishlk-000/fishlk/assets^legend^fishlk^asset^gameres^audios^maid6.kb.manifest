@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4025222511
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc2e006b2bf9ec7c4e6c9c7c38ab6481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dc2e006b2bf9ec7c4e6c9c7c38ab6481
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/maid6.ogg
+Dependencies: []

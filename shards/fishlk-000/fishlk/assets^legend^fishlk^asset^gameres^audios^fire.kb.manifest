@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3465747966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc7d0fae29c199666d1e23589195be99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dc7d0fae29c199666d1e23589195be99
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Legend/FishLK/Asset/GameRes/Audios/fire.ogg
+Dependencies: []
